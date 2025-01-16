@@ -12,9 +12,6 @@ Uma aplicação para acompanhar e pesquisar informações sobre criptomoedas em 
 
 ---
 
-### APK 
-Na raiz do projeto há um arquivo `.apk` com nome de `app-debug` que pode ser usado para instalação e teste rápido do app.
-
 ## Configuração do Projeto 
 
 Siga os passos abaixo para configurar e executar o projeto:
