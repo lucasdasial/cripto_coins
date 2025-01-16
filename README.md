@@ -48,3 +48,12 @@ Certifique-se de que um emulador Android ou dispositivo físico está conectado.
 flutter run
 ```
 ---
+
+### 6. Gerar arquivo .apk
+Para compilar a aplicação e gerar o arquivo .apk em modo debug, utilize:
+```DART
+flutter build apk --debug 
+```
+
+O arquivo pode ser encontrado em: `build\app\outputs\apk\debug\app-debug.apk`  
+Caso prefira você pode baixar o arquivo no seguinte link: [app-download](https://drive.google.com/file/d/1ArgJj5ItY4PpENbOTT4gscFtMV3ER29I/view?usp=sharing).
